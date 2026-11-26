@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.knkawadh.kafe",
+      "sha256_cert_fingerprints": [
+        "28:83:11:F7:EB:27:87:60:94:0E:74:9D:0E:A9:96:C0:20:94:99:45:39:C6:65:DE:A2:34:CD:C8:75:29:71:6F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.knkawadh.kitchen",
+      "sha256_cert_fingerprints": [
+        "28:83:11:F7:EB:27:87:60:94:0E:74:9D:0E:A9:96:C0:20:94:99:45:39:C6:65:DE:A2:34:CD:C8:75:29:71:6F"
+      ]
+    }
+  }
+]
